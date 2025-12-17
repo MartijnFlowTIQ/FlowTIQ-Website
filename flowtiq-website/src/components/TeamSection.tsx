@@ -43,7 +43,7 @@ const TeamSection = () => {
             className="flex-1"
           >
             <h2 className="text-3xl lg:text-4xl font-heading font-bold text-primary mb-6">
-              Wij zijn FlowTIQ. Aangenaam.
+              Wij zijn FlowTIQ. Aangenaam!
             </h2>
             <p className="text-lg text-slate-600 leading-relaxed mb-6">
               Wij zijn experts die snappen hoe weerbarstig de praktijk is. Met ervaring in de zorg, overheid en IT weten we dat technologie pas werkt als de mens centraal staat.
@@ -71,4 +71,3 @@ const TeamSection = () => {
 };
 
 export default TeamSection;
-// Force update
