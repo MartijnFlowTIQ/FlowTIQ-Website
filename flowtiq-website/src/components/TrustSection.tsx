@@ -25,7 +25,7 @@ const TrustSection = () => {
               text: "Data verlaat Nederland niet. FlowTIQ werkt binnen de muren van de organisatie of het datacenter waar de organisatie al gebruik van maakt."
             },
             {
-              icon: Box, // Of Code2 als je die liever hebt
+              icon: Box,
               title: "Geen Black Box",
               text: "Wij gebruiken transparante Open Source technologie. We leggen je precies uit wat er gebeurt en waarom."
             },
@@ -72,3 +72,4 @@ const TrustSection = () => {
 };
 
 export default TrustSection;
+// Force update fix
